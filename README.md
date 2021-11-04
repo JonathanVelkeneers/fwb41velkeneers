@@ -4,7 +4,7 @@ something good.
 [Hosted at Heroku](https://fwb41velkeneers.herokuapp.com/)
 
 
-##The class
+## The class
 
 TetrisBlocks
 
